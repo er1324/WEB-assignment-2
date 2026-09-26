@@ -2,8 +2,7 @@ Course: WEB Technologies 1
 Student: Yerzhan Kurmanbayev  
 Group: SE-2528
 
-Assignment 2  
-https://er1324.github.io/WEB-assignment-2/
+Assignment 2
 
 About  
 Practical submission covering modern CSS layout techniques using Flexbox and CSS Grid. Includes responsive card components, multi-column structural layouts, an image gallery with hover overlays, and a personal profile with featured projects. All pages are connected via a top navigation bar.
